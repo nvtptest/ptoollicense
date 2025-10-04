@@ -1,6 +1,9 @@
 {
-  "UpdateType": "FolderShare",
-  "Version" : "2.0.0.3",
-  "Url": "\\\\srv-filedata\\5-PTSP\\zPTSP_Documents\\zTool\\PTool\\PTSP-BravoTool-Version2.zip",
-  "Message" : "Fix Alter Table PG thêm transaction để không drop view khi alter lỗi"
+  "UpdateType": "GithubRelease",
+  "UpdateType_Bak": "FolderShare_OR_GithubRelease",
+  "Version": "2.0.0.3",
+  "Url": "https://github.com/nvtptest/ptoollicense/releases/latest",
+  "Url_Folder_Bak": "\\\\srv-filedata\\5-PTSP\\zPTSP_Documents\\zTool\\PTool\\PTSP-BravoTool-Version2.zip",
+  "Url_GitHubRelease_Bak": "https://github.com/nvtptest/ptoollicense/releases/latest",
+  "Message": "### Chi tiết cập nhật phiên bản 2.0.0.3 ###\n\nĐây là một bản cập nhật lớn tập trung vào việc sửa lỗi và cải thiện hiệu năng. Vui lòng đọc kỹ nội dung thay đổi bên dưới.\n\n**✨ Cải tiến & Nâng cấp:**\n\n* **[Hiệu năng]** Tối ưu hóa tốc độ tải và hiển thị Layout, giảm thời gian chờ đợi trung bình 30% đối với các layout phức tạp.\n* **[Giao diện]** Sắp xếp lại các control trong chức năng 'Soạn thảo SQL' để dễ dàng thao tác hơn trên các màn hình có độ phân giải thấp.\n* **[Kết nối]** Cải thiện cơ chế tự động kết nối lại khi kết nối tới PostgreSQL database bị gián đoạn.\n\n**🐛 Sửa lỗi:**\n\n* **[NGHIÊM TRỌNG - PostgreSQL]** Sửa lỗi nghiêm trọng trong chức năng 'Alter Table'. Toàn bộ quá trình thay đổi cấu trúc bảng (thêm/sửa/xóa cột) giờ đây được bọc trong một Transaction. Điều này đảm bảo rằng nếu có bất kỳ lỗi nào xảy ra trong lúc thực thi (ví dụ: sai kiểu dữ liệu, xung đột constraint), toàn bộ thay đổi sẽ được rollback (phục hồi) về trạng thái ban đầu, ngăn chặn triệt để tình trạng các view phụ thuộc bị drop mất mà không được tạo lại.\n* **[Hiển thị]** Khắc phục lỗi hiển thị sai ký tự tiếng Việt có dấu trong cửa sổ 'SQL Profiler' khi dữ liệu chứa các chuỗi Unicode đặc biệt.\n* **[Chức năng]** Sửa lỗi 'Tạo lệnh INSERT' không xử lý đúng các giá trị NULL đối với cột kiểu 'timestamp'.\n\nCảm ơn bạn đã tiếp tục sử dụng và đóng góp cho công cụ!"
 }
