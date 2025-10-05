@@ -1,9 +1,0 @@
-{
-  "UpdateType": "FolderShare",
-  "UpdateType_Bak": "FolderShare_OR_GithubRelease",
-  "Version": "2.0.0.3",
-  "Url": "\\\\srv-filedata\\5-PTSP\\zPTSP_Documents\\zTool\\PTool\\PTSP-BravoTool-Version2.zip",
-  "Url_Folder_Bak": "\\\\srv-filedata\\5-PTSP\\zPTSP_Documents\\zTool\\PTool\\PTSP-BravoTool-Version2.zip",
-  "Url_GitHubRelease_Bak": "https://github.com/nvtptest/ptoollicense/releases/latest",
-  "Message": "### Chi tiết cập nhật phiên bản 2.0.0.3 ###\r\n\r\n"
-}
