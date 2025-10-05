@@ -4,6 +4,6 @@
     "UpdateType": "GithubRelease",
     "Version": "2.0.0.6",
     "Url": "https://github.com/nvtptest/ptoollicense",
-    "Message": "### Chi tiết cập nhật ###\r\n\r\n- Cập nhật cơ chế License\r\n- Cập nhật cơ chế Auto Update\r\n- Fix lỗi PG Alter Table/Alter View đưa vào Transaction để không bị Drop view khi xảy ra lỗi"
+    "Message": "### Chi tiết cập nhật ver ###\r\n\r\n- Cập nhật cơ chế License\r\n- Cập nhật cơ chế Auto Update\r\n- Fix lỗi PG Alter Table/Alter View đưa vào Transaction để không bị Drop view khi xảy ra lỗi"
   }
 }
