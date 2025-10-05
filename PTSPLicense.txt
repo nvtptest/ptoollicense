@@ -3,7 +3,7 @@
   "UpdateInfo": {
     "UpdateType": "GithubRelease",
     "Version": "2.0.0.5",
-    "Url": "https://api.github.com/repos/nvtptest/ptoollicense/releases/latest",
-    "Message": "### Chi tiết cập nhật phiên bản 2.0.5 ###\r\n\r\n- Test auto update"
+    "Url": "https://github.com/nvtptest/ptoollicense",
+    "Message": "### Chi tiết cập nhật phiên bản 2.0.0.5 ###\r\n\r\n- Test update "
   }
 }
