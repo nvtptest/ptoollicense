@@ -4,6 +4,6 @@
     "UpdateType": "FolderShare",
     "Version": "2.0.0.2",
     "Url": "\\\\srv-filedata\\5-PTSP\\zPTSP_Documents\\zTool\\PTool\\PTSP-BravoTool-Version2.zip",
-    "Message": "### Chi tiết cập nhật phiên bản [version] ###\r\n\r\n- Cải tiến hiệu năng.\r\n- Sửa một số lỗi nhỏ."
+    "Message": "### Chi tiết cập nhật phiên bản 2.0.2 ###\r\n\r\n- Cải tiến hiệu năng.\r\n- Sửa một số lỗi nhỏ."
   }
 }
