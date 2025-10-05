@@ -4,6 +4,6 @@
     "UpdateType": "GithubRelease",
     "Version": "2.0.0.5",
     "Url": "https://github.com/nvtptest/ptoollicense",
-    "Message": "### Chi tiết cập nhật phiên bản 2.0.0.5 ###\r\n\r\n- Test update "
+    "Message": "### Chi tiết cập nhật phiên bản 2.0.0.5 ###\r\n\r\n- Test update 2.0.0.5"
   }
 }
